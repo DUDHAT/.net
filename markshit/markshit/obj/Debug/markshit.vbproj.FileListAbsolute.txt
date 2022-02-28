@@ -1,0 +1,10 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\bin\Debug\markshit.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\bin\Debug\markshit.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\bin\Debug\markshit.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\bin\Debug\markshit.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\obj\Debug\markshit.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\obj\Debug\markshit.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\obj\Debug\markshit.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\obj\Debug\markshit.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\obj\Debug\markshit.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\markshit\obj\Debug\markshit.pdb

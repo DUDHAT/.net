@@ -1,0 +1,10 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\bin\Debug\CALCULATOR.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.pdb

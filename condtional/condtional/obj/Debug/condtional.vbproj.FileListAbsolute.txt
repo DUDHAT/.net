@@ -1,0 +1,11 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\bin\Debug\condtional.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\bin\Debug\condtional.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\bin\Debug\condtional.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\bin\Debug\condtional.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\obj\Debug\condtional.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\obj\Debug\condtional.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\obj\Debug\condtional.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\obj\Debug\condtional.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\obj\Debug\condtional.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\obj\Debug\condtional.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\condtional\obj\Debug\condtional.Form2.resources
